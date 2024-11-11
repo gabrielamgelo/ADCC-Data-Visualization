@@ -5,4 +5,5 @@ This project uses data from the Abu Dhabi Combat Championship (ADCC), sourced fr
 The repository contains:
 
 adcc_historical_data.csv: the dataset used
+
 notebook.ipynb: a jupyter notebook containing the analysis
