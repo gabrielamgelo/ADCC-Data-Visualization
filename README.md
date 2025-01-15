@@ -55,3 +55,7 @@ Year: 2011,  Winner: Gabrielle Garcia,  Loser: Penny Thomas
 
 **1st Graph-** Number of Occurrences of Each Win Type
 
+![Number of Occurrences of Each Win Type](https://github.com/user-attachments/assets/b0829454-e4d1-4efa-aa2f-0d23e60764d4)
+
+![Captura de tela 2025-01-15 185927](https://github.com/user-attachments/assets/c2eca6a0-965a-49ca-8e9d-126441157cac)
+**2nd Graph-** 
