@@ -58,4 +58,26 @@ Year: 2011,  Winner: Gabrielle Garcia,  Loser: Penny Thomas
 ![Number of Occurrences of Each Win Type](https://github.com/user-attachments/assets/b0829454-e4d1-4efa-aa2f-0d23e60764d4)
 
 ![Captura de tela 2025-01-15 185927](https://github.com/user-attachments/assets/c2eca6a0-965a-49ca-8e9d-126441157cac)
-**2nd Graph-** 
+
+**2nd Graph-** Spread of Points by Winner and Loser
+
+![Spread of Points by Winner and Loser](https://github.com/user-attachments/assets/005c3a40-4714-43cd-9d5d-1249b5ef4697)
+
+
+![Captura de tela 2025-01-15 185956](https://github.com/user-attachments/assets/42fcab51-f390-476b-9e07-b3929d7cad39)
+
+**3rd Graph-** Submissions Used
+
+![Submissions Used](https://github.com/user-attachments/assets/b85047d9-b597-4d47-aaa7-7978473376b5)
+
+**4th Graph-** Number of Matches of Each Weight Class by Gender
+
+![Number of Matches of Each Weight Class by Gender](https://github.com/user-attachments/assets/907611ca-b3ee-4917-aaea-2d4315b05f25)
+
+**5th Graph-** Number of Matches by Sex
+
+![Number of Matches by Sex](https://github.com/user-attachments/assets/483cc849-0d8b-4147-9ca3-8ee2f8d1f666)
+
+**6th Graph-** Win Types Through the Years 
+
+![Win Types Through the Years](https://github.com/user-attachments/assets/806a6bca-e442-4220-95f0-c73b3fdaa243)
