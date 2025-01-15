@@ -80,12 +80,18 @@ As for the least used, it makes sense for them to be in the spots they're in. Th
 
 **4th Graph-** Number of Matches of Each Weight Class by Gender
 
+Here we can see the weight classes with the most fights, the top 3 being Absolute, 66kg, and 77kg, all in the male category. As for the female category, the weight clases are distributed between +60kg and 60kg.
+
 ![Number of Matches of Each Weight Class by Gender](https://github.com/user-attachments/assets/907611ca-b3ee-4917-aaea-2d4315b05f25)
 
 **5th Graph-** Number of Matches by Sex
 
+This graph makes it obvious that the huge majority of matches are between males.
+
 ![Number of Matches by Sex](https://github.com/user-attachments/assets/483cc849-0d8b-4147-9ca3-8ee2f8d1f666)
 
 **6th Graph-** Win Types Through the Years 
+
+Here we can notice that winning by points and submission have had a steady increase over the years. With an interesting insight being that fights won by decision have had a great increase of occurences since the 2010's, with a possibility of increasing even more, as the experience level of fighters improves every year and the sport grows even bigger gaining more visibility and practioners, more and more matches  could be more equally leveled, resulting in them being finished by decision.
 
 ![Win Types Through the Years](https://github.com/user-attachments/assets/806a6bca-e442-4220-95f0-c73b3fdaa243)
