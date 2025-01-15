@@ -2,6 +2,15 @@
 
 This project uses data from the Abu Dhabi Combat Championship (ADCC), sourced from a dataset available [here](https://www.kaggle.com/datasets/bjagrelli/adcc-historical-dataset). The goal of this project is to explore, analyze, and visualize the data provided.
 
+## Technologies Used:
+
+
+    Language: Python
+    Python Libraries:
+    Pandas: Used for data cleaning, manipulation and analysis
+    Matplotlib & Seaborn: Used for visualizations.
+    Jupyter Notebook: Used or interactive data exploration.
+
 The repository contains:
 
 • adcc_historical_data.csv: The dataset used.
