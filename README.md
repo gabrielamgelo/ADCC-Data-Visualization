@@ -27,7 +27,7 @@ The win_type column had inconsistent values, such as 'DESQUALIFICATION', so it n
 
 Missing values were found on the 'submission' and 'avd_pen' columns, due to not all fights being finished with submissions or having penalities, therefore, the missing values did not need to be treated.
 
-# Insights/Questions to Answer
+## 2- Insights/Questions to Answer
 
 **1st Question-** How many fighters were cataloged in the dataset? 
 **Answer:** 
@@ -61,8 +61,6 @@ Missing values were found on the 'submission' and 'avd_pen' columns, due to not 
 **Answer:**
 
 Year: 2011,  Winner: Gabrielle Garcia,  Loser: Penny Thomas
-
-## 2- Data Visualization:
 
 **1st Graph-** Number of Occurrences of Each Win Type
 
