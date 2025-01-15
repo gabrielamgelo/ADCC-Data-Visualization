@@ -25,22 +25,22 @@ Missing values were found on the 'submission' and 'avd_pen' columns, due to not 
 
 **2nd Question-** Were there how many fights each year?
 **Answer:** 
-(Images/Captura de tela 2025-01-15 190953.png)
+!(Images/Captura de tela 2025-01-15 190953.png)
 
 **3rd Question-** Who were the top 10 fighters with the most wins?
 **Answer:** 
-(Images/Captura de tela 2025-01-15 191001.png)
+!(Images/Captura de tela 2025-01-15 191001.png)
 
 **4th Question-** Who were the top 10 fighters with the most losses?
 **Answer:** 
-(Images/Captura de tela 2025-01-15 191007.png)
+!(Images/Captura de tela 2025-01-15 191007.png)
 
 **5th Question-** What are the win types?
 **Answer:** 'DECISION', 'SUBMISSION', 'POINTS', 'INJURY', 'DISQUALIFICATION'
 
 **6th Question-** What is the number of matches by sex?
 **Answer:**
-(Images/Captura de tela 2025-01-15 191014.png)
+!(Images/Captura de tela 2025-01-15 191014.png)
 
 **7th Question-** When the first female match took place and who were the fighters?
 **Answer:**
@@ -50,4 +50,4 @@ Year: 2011,  Winner: Gabrielle Garcia,  Loser: Penny Thomas
 ## 2- Data Visualization:
 
 **1st Graph-** Number of Occurrences of Each Win Type
-(Images/Number of Occurrences of Each Win Type.png)
+!(Images/Number of Occurrences of Each Win Type.png)
