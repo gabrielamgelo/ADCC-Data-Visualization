@@ -25,64 +25,29 @@ Missing values were found on the 'submission' and 'avd_pen' columns, due to not 
 
 **2nd Question-** Were there how many fights each year?
 **Answer:** 
-
-2022    109
-2019    104
-2017    102
-2015     93
-2013     87
-2011     89
-2009     72
-2007     59
-2005     66
-2003     66
-2001     64
-2000     51
-1999     45
-1998     21
+(Images/Captura de tela 2025-01-15 190953.png)
 
 **3rd Question-** Who were the top 10 fighters with the most wins?
 **Answer:** 
-
-Alexandre Ribeiro     30
-Marcelo Garcia        27
-Saulo Ribeiro         22
-Andre Galvao          22
-Leonardo Vieira       21
-Fabricio Werdum       20
-Gordon Ryan           20
-Roberto Abreu         20
-Vinicius Magalhaes    19
-Pablo Popovitch       19
+(Images/Captura de tela 2025-01-15 191001.png)
 
 **4th Question-** Who were the top 10 fighters with the most losses?
 **Answer:** 
-
-Alexandre Ribeiro     13
-Rafael Lovato Jr      12
-Baret Yoshida         11
-Vinicius Magalhaes    10
-Gary Tonon            10
-Leonardo Vieira        9
-Ricco Rodriguez        9
-Roberto Abreu          9
-Dean Lister            9
-A. Cacareco            8
+(Images/Captura de tela 2025-01-15 191007.png)
 
 **5th Question-** What are the win types?
 **Answer:** 'DECISION', 'SUBMISSION', 'POINTS', 'INJURY', 'DISQUALIFICATION'
 
 **6th Question-** What is the number of matches by sex?
 **Answer:**
-
-M 	986
-F 	42
+(Images/Captura de tela 2025-01-15 191014.png)
 
 **7th Question-** When the first female match took place and who were the fighters?
 **Answer:**
 
-Year: 2011  Winner: Gabrielle Garcia  Loser: Penny Thomas
+Year: 2011,  Winner: Gabrielle Garcia,  Loser: Penny Thomas
 
 ## 2- Data Visualization:
 
 **1st Graph-** Number of Occurrences of Each Win Type
+(Images/Number of Occurrences of Each Win Type.png)
