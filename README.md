@@ -55,11 +55,15 @@ Year: 2011,  Winner: Gabrielle Garcia,  Loser: Penny Thomas
 
 **1st Graph-** Number of Occurrences of Each Win Type
 
+With this graph we can see that the most wins are by points, with 50% of the total wins, followed closely by submissions, with 39%. Also, we can see that the other ways of winning are really not that frequent, with only 9% being decisions, only 9 occurrences of injury and 1 disqualification.
+
 ![Number of Occurrences of Each Win Type](https://github.com/user-attachments/assets/b0829454-e4d1-4efa-aa2f-0d23e60764d4)
 
 ![Captura de tela 2025-01-15 185927](https://github.com/user-attachments/assets/c2eca6a0-965a-49ca-8e9d-126441157cac)
 
 **2nd Graph-** Spread of Points by Winner and Loser
+
+Here we can see that the overall spread of points and max values for winners are way bigger than for losers, which should be expected.
 
 ![Spread of Points by Winner and Loser](https://github.com/user-attachments/assets/005c3a40-4714-43cd-9d5d-1249b5ef4697)
 
@@ -67,6 +71,8 @@ Year: 2011,  Winner: Gabrielle Garcia,  Loser: Penny Thomas
 ![Captura de tela 2025-01-15 185956](https://github.com/user-attachments/assets/42fcab51-f390-476b-9e07-b3929d7cad39)
 
 **3rd Graph-** Submissions Used
+
+Looking at this graph, we can notice that the most used submission is the Rea-Naked-Choke, followed by the Armbar, Guillotine, Hell Hook and Triangle. The Rear-Naked-Choke being the most used submission is not that surprising for it can be very tricky to defend againt, as your opponent has total advantage over you when he takes your back. Armbar being the second most used makes total sense, because it's literally one of the first moves everyone is taught when starting in jiu-jitsu, and because the arms can be very difficult to protect some times, even for high-level fighters! The one type of submission that is a bit surprising to be on the 4th spot is the Hell Hook, as it's kind of a 'new' addition to the sport, gaining a lot of popularity over more recent years with John Donaher's Death Squad.
 
 ![Submissions Used](https://github.com/user-attachments/assets/b85047d9-b597-4d47-aaa7-7978473376b5)
 
