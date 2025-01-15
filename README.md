@@ -31,10 +31,12 @@ Missing values were found on the 'submission' and 'avd_pen' columns, due to not 
 **3rd Question-** Who were the top 10 fighters with the most wins?
 **Answer:** 
 
+![Top 10 Winners](https://github.com/user-attachments/assets/6a18f665-78aa-4ccd-8bd2-3ccf0a93e7e8)
 
 **4th Question-** Who were the top 10 fighters with the most losses?
 **Answer:** 
 
+![Top 10 Losers](https://github.com/user-attachments/assets/30e6bec4-97f7-4310-a4ee-5a512be661c4)
 
 **5th Question-** What are the win types?
 **Answer:** 'DECISION', 'SUBMISSION', 'POINTS', 'INJURY', 'DISQUALIFICATION'
@@ -42,6 +44,7 @@ Missing values were found on the 'submission' and 'avd_pen' columns, due to not 
 **6th Question-** What is the number of matches by sex?
 **Answer:**
 
+![Matches by Sex](https://github.com/user-attachments/assets/8bf0bc8a-410b-4d3d-aa50-26da28874da6)
 
 **7th Question-** When the first female match took place and who were the fighters?
 **Answer:**
