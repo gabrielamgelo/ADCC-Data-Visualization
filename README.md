@@ -25,7 +25,7 @@ Missing values were found on the 'submission' and 'avd_pen' columns, due to not 
 
 **2nd Question-** Were there how many fights each year?
 **Answer:** 
-!(Images/Captura de tela 2025-01-15 190953.png)
+![Fights per year](Images/Captura de tela 2025-01-15 190953.png)
 
 **3rd Question-** Who were the top 10 fighters with the most wins?
 **Answer:** 
