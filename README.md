@@ -74,6 +74,8 @@ Here we can see that the overall spread of points and max values for winners are
 
 Looking at this graph, we can notice that the most used submission is the Rea-Naked-Choke, followed by the Armbar, Guillotine, Hell Hook and Triangle. The Rear-Naked-Choke being the most used submission is not that surprising for it can be very tricky to defend againt, as your opponent has total advantage over you when he takes your back. Armbar being the second most used makes total sense, because it's literally one of the first moves everyone is taught when starting in jiu-jitsu, and because the arms can be very difficult to protect some times, even for high-level fighters! The one type of submission that is a bit surprising to be on the 4th spot is the Hell Hook, as it's kind of a 'new' addition to the sport, gaining a lot of popularity over more recent years with John Donaher's Death Squad.
 
+As for the least used, it makes sense for them to be in the spots they're in. The twister, which is the least used submission, is very hard to accomplish specially against well trained opponents, but however rare and difficult (and amazing) it is to pull off, it still can happen.
+
 ![Submissions Used](https://github.com/user-attachments/assets/b85047d9-b597-4d47-aaa7-7978473376b5)
 
 **4th Graph-** Number of Matches of Each Weight Class by Gender
