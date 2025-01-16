@@ -3,7 +3,7 @@
 This project uses data from the Abu Dhabi Combat Championship (ADCC), sourced from a dataset available [here](https://www.kaggle.com/datasets/bjagrelli/adcc-historical-dataset). The goal of this project is to explore, analyze, and visualize the data provided.
 ___
 
-# *Here you'll see a simplified overview and explanation of what was done, the full project is available in the Jupyter Notebook file*.
+# *Here you'll see a simplified overview and explanation of what was done, the full project is available in the accompanying Jupyter Notebook*.
 
 ## Technologies Used:
 
