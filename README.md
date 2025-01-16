@@ -18,7 +18,7 @@ The repository contains:
 
 • adcc_historical_data.csv: The dataset used.
 
-• notebook.ipynb: A jupyter notebook containing the analysis
+• notebook.ipynb: A jupyter notebook containing the full analysis.
 
 # OVERVIEW:
 
