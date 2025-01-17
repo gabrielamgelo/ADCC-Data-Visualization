@@ -1,6 +1,6 @@
 # ADCC-data-visualization
 
-As jiu-jitsu is my favorite sport, the goal of this project is to explore, analyze, and visualize data from a dataset with historical data of the Abu Dhabi Combat Championship (ADCC), which I'm really interested in getting insights from. The dataset is available [here](https://www.kaggle.com/datasets/bjagrelli/adcc-historical-dataset). 
+As a jiu-jitsu fighter and because it's my favorite sport and one of my biggest interests lately, the goal of this project is to explore, analyze, and visualize data from a dataset with historical data of the Abu Dhabi Combat Championship (ADCC), from which I’m really excited to gain some insights into the competition. The dataset is available [here](https://www.kaggle.com/datasets/bjagrelli/adcc-historical-dataset). 
 ___
 
 ### *Here you'll see a simplified overview and explanation of what was done, the full project is available in the accompanying Jupyter Notebook*.
