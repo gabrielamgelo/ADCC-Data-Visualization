@@ -30,7 +30,7 @@ The win_type column had inconsistent values, such as 'DESQUALIFICATION', so it n
 
 Missing values were found on the 'submission' and 'avd_pen' columns, due to not all fights being finished with submissions or having penalities, therefore, the missing values did not need to be treated.
 
-## 2- Insights/Questions to Answer
+### Insights/Questions to Answer
 
 **1st Question-** How many fighters were cataloged in the dataset? 
 **Answer:** 
