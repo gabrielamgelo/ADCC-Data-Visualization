@@ -1,6 +1,16 @@
 # ADCC-data-visualization
 
 As a jiu-jitsu fighter and because it's my favorite sport and one of my biggest interests lately, the goal of this project is to explore, analyze, and visualize data from a dataset with historical data of the Abu Dhabi Combat Championship (ADCC), from which I’m really excited to gain some insights into the competition. The dataset is available [here](https://www.kaggle.com/datasets/bjagrelli/adcc-historical-dataset). 
+
+The main insights: 
+
+- The year with the most fights was 2022, with 109 fights.
+- The top 5 fighters with the most wins are: Alexandre Ribeiro, Marcelo Garcia, Saulo Ribeiro, André Galvão, and Leonardo Vieira.
+- The majority of wins were decided by points, with 50% of the total wins, followed closely by submissions, with 39%. With only 9% being decisions, only 9 occurrences of injury and 1 disqualification.
+- The most used submission is the Rea-Naked-Choke, followed by the Armbar, Guillotine, Hell Hook and Triangle.
+- The weight classes with the most fights are: Absolute, 66kg, and 77kg, all in the male category. As for the female category, the weight clases are distributed between +60kg and 60kg.
+- Winning by points and submission have had a steady increase over the years.
+- Fights won by decision have had a great increase of occurences since the 2010's, with a possibility of increasing even more, as the experience level of fighters improves every year and the sport grows even bigger gaining more visibility and practioners, more and more matches could be more equally leveled, resulting in them being finished by decision.
 ___
 
 ### *Here you'll see a simplified overview and explanation of what was done, the full project is available in the accompanying Jupyter Notebook*.
