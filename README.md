@@ -2,7 +2,7 @@
 
 As a jiu-jitsu fighter and because it's my favorite sport and one of my biggest interests lately, the goal of this project is to explore, analyze, and visualize data from a dataset with historical data of the Abu Dhabi Combat Championship (ADCC), from which I’m really excited to gain some insights into the competition. The dataset is available [here](https://www.kaggle.com/datasets/bjagrelli/adcc-historical-dataset). 
 
-The main insights: 
+Main insights: 
 
 - The year with the most fights was 2022, with 109 fights.
 - The top 5 fighters with the most wins are: Alexandre Ribeiro, Marcelo Garcia, Saulo Ribeiro, André Galvão, and Leonardo Vieira.
